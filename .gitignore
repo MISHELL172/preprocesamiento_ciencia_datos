@@ -1,0 +1,18 @@
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Configuraciones de entorno y variables locales
+.env
+.venv/
+venv/
+env/
+
+# Configuraciones de VSCode
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
