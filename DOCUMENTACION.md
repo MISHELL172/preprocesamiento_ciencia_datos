@@ -46,29 +46,29 @@ En este proyecto se implemento el workflow  para automatizar la verificacion del
 ## Captura de pantalla 
 
 ### Imagen 1
-![Imagen 1](docs/imagenes/imagen1.png)
+![Imagen 1](docs/imagenes/Imagen1.png)
 
 ### Imagen 2
-![Imagen 2](docs/imagenes/imagen2.png)
+![Imagen 2](docs/imagenes/Imagen2.png)
 
 ### Imagen 3
-![Imagen 3](docs/imagenes/imagen3.png)
+![Imagen 3](docs/imagenes/Imagen3.png)
 
 ### Imagen 4
-![Imagen 4](docs/imagenes/imagen4.png)
+![Imagen 4](docs/imagenes/Imagen4.png)
 
 ### Imagen 5
-![Imagen 5](docs/imagenes/imagen5.png)
+![Imagen 5](docs/imagenes/Imagen5.png)
 
 ### Imagen 6
-![Imagen 6](docs/imagenes/imagen6.png)
+![Imagen 6](docs/imagenes/Imagen6.png)
 
 ### Imagen 7
-![Imagen 7](docs/imagenes/imagen7.png)
+![Imagen 7](docs/imagenes/Imagen7.png)
 
 ### Imagen 8
-![Imagen 8](docs/imagenes/imagen8.png)
+![Imagen 8](docs/imagenes/Imagen8.png)
 
 ### Imagen 9
-![Imagen 9](docs/imagenes/imagen9.png)
+![Imagen 9](docs/imagenes/Imagen9.png)
 
